@@ -1,0 +1,16 @@
+{
+  "name": "create_tbl_script",
+  "version": "1.0.0",
+  "description": "create_tbl_script_des",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^9.1.1",
+    "read-excel-file": "^5.6.1",
+    "xlsx": "^0.18.5"
+  }
+}
