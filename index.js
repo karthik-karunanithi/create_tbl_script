@@ -281,7 +281,7 @@ async function update_err_tbl() {
     console.log(e);
   }
 }
-
+  
 // ****sql****
 // Select T.TABLE_SCHEMA, T.TABLE_NAME
 //     , Stuff(
